@@ -158,3 +158,4 @@ function renderSinglePost(post) {
   const container = document.getElementById('posts-container');
   container.prepend(template);
 }
+
